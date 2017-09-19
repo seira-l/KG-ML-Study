@@ -2,7 +2,7 @@
 
 **사전 준비하기**
 - homebrew 설치
--- https://brew.sh/index_ko.html
+- https://brew.sh/index_ko.html
 
 **git - 간편 안내서**
 - https://rogerdudler.github.io/git-guide/index.ko.html
