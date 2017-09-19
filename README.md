@@ -28,11 +28,11 @@
   - add
     - git add *
   - commit
-    - git commit -m "커밋 내용을 입력"
+    - git commit -m "커밋 내용을 입력"
   - push
     - git push origin master
     - 저장소 찾지 못할 경우 : git remote add origin https://github.com/james-jjj/KG-ML-Study.git
-    - 최초 1회 github ID / password 입력
+    - 최초 1회 github ID / password 입력
 
 ### 참고1. TensorFlow Machine Learning Cookbook
 - https://github.com/nfmcclure/tensorflow_cookbook
