@@ -24,6 +24,9 @@
 ### GitHub 연동하기
 - git clone (원격 저장소 -> 로컬 저장소로 복사)
   - 로컬 저장 위치로 이동 git clone https://github.com/james-jjj/KG-ML-Study.git
+- 초기 설정 진행
+  - pip install -r requirements.txt
+ 
 - git 업로드 
   - add
     - git add *
