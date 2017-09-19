@@ -1,6 +1,6 @@
 # KG-ML-Study
 
-**사전 준비하기**
+### 사전 준비하기
 - homebrew 설치
   - https://brew.sh/index_ko.html
   
@@ -21,10 +21,23 @@
   - https://www.anaconda.com/download/
   - 버전 확인 : conda -V
 
-**git - 간편 안내서**
-- https://rogerdudler.github.io/git-guide/index.ko.html
+### GitHub 연동하기
+- git clone (원격 저장소 -> 로컬 저장소로 복사)
+  - 로컬 저장 위치로 이동 git clone https://github.com/james-jjj/KG-ML-Study.git
+- git 업로드 
+  - add
+    - git add *
+  - commit
+    - git commit -m "커밋 내용을 입력"
+  - push
+    - git push origin master
+    - 저장소 찾지 못할 경우 : git remote add origin https://github.com/james-jjj/KG-ML-Study.git
+    - 최초 1회 github ID / password 입력
 
-**TensorFlow Machine Learning Cookbook 참고 주소**
+### 참고1. TensorFlow Machine Learning Cookbook
 - https://github.com/nfmcclure/tensorflow_cookbook
 - http://acornpub.co.kr/book/tensor-machine-learning-cook
+
+### 참고2. git - 간편 안내서
+- https://rogerdudler.github.io/git-guide/index.ko.html
 
