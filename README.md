@@ -44,3 +44,6 @@
 ### 참고2. git - 간편 안내서
 - https://rogerdudler.github.io/git-guide/index.ko.html
 
+### 참고3. Simplicity and power in a beautiful Git GUI
+- https://www.sourcetreeapp.com/
+
