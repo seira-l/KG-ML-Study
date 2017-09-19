@@ -37,13 +37,15 @@
     - 저장소 찾지 못할 경우 : git remote add origin https://github.com/james-jjj/KG-ML-Study.git
     - 최초 1회 github ID / password 입력
 
-### 참고1. TensorFlow Machine Learning Cookbook
+---
+
+#### 참고1. TensorFlow Machine Learning Cookbook
 - https://github.com/nfmcclure/tensorflow_cookbook
 - http://acornpub.co.kr/book/tensor-machine-learning-cook
 
-### 참고2. git - 간편 안내서
+#### 참고2. git - 간편 안내서
 - https://rogerdudler.github.io/git-guide/index.ko.html
 
-### 참고3. Simplicity and power in a beautiful Git GUI
+#### 참고3. Simplicity and power in a beautiful Git GUI
 - https://www.sourcetreeapp.com/
 
