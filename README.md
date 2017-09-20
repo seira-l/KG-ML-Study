@@ -23,11 +23,11 @@
 
 ### GitHub 연동하기
 - git clone (원격 저장소 -> 로컬 저장소로 복사)
-  - 로컬 저장 위치로 이동 git clone https://github.com/james-jjj/KG-ML-Study.git
+  - 로컬 저장 위치로 이동 git clone https://github.com/james-jjj/KG-ML-Study.git
 - 초기 설정 진행
   - pip install -r requirements.txt
 - 본인 폴더 생성 및 테스트 코드 작성
-  - KG-ML-Study/james/HelloWorld.ipynb 참고
+  - KG-ML-Study/james/HelloWorld.ipynb 참고
 - git 업로드 
   - add
     - git add *
