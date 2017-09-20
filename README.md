@@ -26,7 +26,8 @@
   - 로컬 저장 위치로 이동 git clone https://github.com/james-jjj/KG-ML-Study.git
 - 초기 설정 진행
   - pip install -r requirements.txt
- 
+- 본인 폴더 생성 및 테스트 코드 작성
+  - KG-ML-Study/james/HelloWorld.ipynb 참고
 - git 업로드 
   - add
     - git add *
@@ -36,7 +37,7 @@
     - git push origin master
     - 저장소 찾지 못할 경우 : git remote add origin https://github.com/james-jjj/KG-ML-Study.git
     - 최초 1회 github ID / password 입력
-
+- github.com/james-jjj/KG-ML-Study 접속 후 정상 커밋 확인
 ---
 
 #### 참고1. TensorFlow Machine Learning Cookbook
